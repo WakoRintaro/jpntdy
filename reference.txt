@@ -1,0 +1,11 @@
+Amazon Kindle White
+https://worktoolsmith.com/kindle-paperwhite-resolution/
+
+Decompress gzip data
+https://stackoverflow.com/questions/720273/what-is-the-best-way-to-decompress-a-gziped-server-response-in-python-3
+
+Pydoc urllib
+https://docs.python.jp/3/library/urllib.request.html#urllib.request.Request
+
+Referense
+https://www.sitekickr.com/snippets/python/send-html-email-attachments
