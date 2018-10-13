@@ -1,5 +1,4 @@
 from reportlab.pdfgen import canvas
-from reportlab.lib.pagesizes import A4, portrait
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
