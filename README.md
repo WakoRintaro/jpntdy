@@ -20,7 +20,7 @@ jpntdy/pdfs を作成する
 実行するには
 python3 JapanTodayList.py　をオプションなしで実行
 
-#それぞれのモジュールの役割
+# それぞれのモジュールの役割
 JapanTodayList
 ->JapanTodayのFeedから各記事へのリンクを取得，保存，メール添付
 
